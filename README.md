@@ -29,6 +29,10 @@
 
 ###
 
+<h4 align="left"></h4>
+
+###
+
 <br clear="both">
 
 <img align="right" height="170" src="https://media1.tenor.com/m/yFKbJFsOvs4AAAAC/luffy-smile-luffy-giggle.gif"  />
@@ -39,7 +43,7 @@
   <a href="https://www.instagram.com/euloreti/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="Discordapp.com/users/307696360663023617" target="_blank">
+  <a href="discordapp.com/users/307696360663023617" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="pedroloreti639@gmail.com" target="_blank">
