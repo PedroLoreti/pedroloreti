@@ -91,7 +91,7 @@ Olá, me chamo Pedro Emannuel Loreti. Tenho 19 anos e, desde a infância, sempre
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLoreti&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
